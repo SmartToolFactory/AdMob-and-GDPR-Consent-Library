@@ -1,0 +1,4 @@
+<resources>
+    <string name="key_consent_status" translatable="false">key_consent_option</string>
+    <string name="key_consent_in_eea" translatable="false">key_consent_in_eea</string>
+</resources>

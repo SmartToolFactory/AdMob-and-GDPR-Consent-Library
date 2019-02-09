@@ -1,0 +1,7 @@
+<resources>
+    <string name="consent_user_consent">User Consent</string>
+    <string name="consent_personalized_ads">Personalized Ads</string>
+    <string name="consent_non_personalized_ads">Non-Personalized Ads</string>
+    <string name="consent_get_paid_version">Get Paid Version</string>
+    <string name="consent_reset_consent">Revoke or change consent</string>
+</resources>
